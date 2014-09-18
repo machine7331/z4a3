@@ -231,6 +231,7 @@ if (isDedicated) then {
 	_id = [] execFSM "\z\addons\dayz_server\system\server_cleanup.fsm";
 };
 
+call compile preprocessFileLineNumbers "\z\addons\invasion_server\A3MS\A3MSMSInit.sqf";		//A3MS initialize
 allowConnection = true;
 // [_guaranteedLoot, _randomizedLoot, _frequency, _variance, _spawnChance, _spawnMarker, _spawnRadius, _spawnFire, _fadeFire]
 nul = [4, 4, (30 * 60), (5 * 60), 1.00, 'center', 5000, true, false] spawn server_spawnCrashSite;

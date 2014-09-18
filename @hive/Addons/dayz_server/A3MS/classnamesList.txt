@@ -1,0 +1,43 @@
+//Opfor enemy class names
+"O_Soldier_F",
+"O_Soldier_AR_F",
+"O_medic_F",
+"O_engineer_F",
+"O_soldier_exp_F",
+"O_Soldier_GL_F",
+"O_soldier_M_F",
+"O_officer_F",
+"O_Soldier_F",
+"O_Soldier_LAT_F",
+"O_Soldier_lite_F",
+"O_Soldier_SL_F",
+"O_Soldier_TL_F",
+"O_soldier_UAV_F",
+"O_Pilot_F",
+
+
+//independent enemy class names
+I_Soldier_AR_F
+I_medic_F
+I_crew_F
+I_engineer_F
+I_soldier_exp_F
+I_Soldier_GL_F
+I_soldier_M_F
+I_officer_F
+I_Soldier_F
+I_Soldier_LAT_F
+I_Soldier_lite_F
+I_Soldier_SL_F
+I_Soldier_TL_F
+I_soldier_UAV_F
+I_Pilot_F
+
+
+//some guns classnames
+"Weapon_LMG_Zafir_F","Weapon_arifle_Mk20_plain_F","Weapon_SMG_02_F","Weapon_arifle_Mk20C_plain_F",
+"Weapon_arifle_Mk20_GL_plain_F","Weapon_SMG_01_F","Weapon_hgun_PDW2000_F","Weapon_hgun_Rook40_F", "Weapon_srifle_GM6_F","Weapon_arifle_MXM_F","Weapon_srifle_DMR_01_F","Weapon_arifle_MX_SW_F",
+"Weapon_srifle_EBR_F","Weapon_srifle_LRR_camo_F","Weapon_arifle_Katiba_C_F","Weapon_hgun_Pistol_heavy_02_F"
+
+
+
