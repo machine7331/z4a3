@@ -63,6 +63,6 @@ waitUntil {time > 0};
 enableEnvironment false;
 [] execVM "scripts\vehicleManager.sqf"; // AgentRev FPS Fix
 [] execVM "scripts\cpcnametags.sqf";
-[] execVM "addons\R3F_LOG\init.sqf";
+[] execVM "addons\R3F_ARTY_AND_LOG\init.sqf";
 [] execVM "addons\proving_Ground\init.sqf";
 player_is_admin = player addAction ["Admin Menu", "addons\proving_ground\fnc_show_dialog.sqf",player, 0.5, false, false];
